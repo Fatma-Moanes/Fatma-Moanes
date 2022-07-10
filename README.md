@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma Moanes</h1>
-<h3 align="center">A senior Communications & Information engineering student who is fond of learning and working in all subfields of AI.</h3>
+<h3 align="center">A fresh graduate Communications & Information engineer who is fond of learning and working in all subfields of AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-moanes&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-moanes" /> </p>
 
