@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatma-moanes" alt="fatma-moanes" /></a> </p>
 
-- 🔭 I’m currently working on [Action detection for Smart Surveillance Systems](https://github.com/mo-shaffei/action-detection-app)
-
 - 📫 How to reach me **fmoanesnoureldin@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/17sIKHAwVuXd8MNehZ_CAFdC8F1Z1aX7j)
